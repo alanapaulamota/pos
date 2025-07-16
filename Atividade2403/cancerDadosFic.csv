@@ -1,0 +1,224 @@
+Anonimo,Target,Sexo,Idade,Tipo Sanguíneo,Peso,Comorbidade,Tipos de RNAs,Nomenclatura,Text
+1,SIM,Masculino,50,A-,86 kg,-,MiRNA,hsa-let-7a,colon cancer
+2,SIM,Feminino,30,O-,57 kg,-,MiRNA,hsa-let-7a,colon cancer
+3,SIM,Masculino,20,AB+,50 kg,-,MiRNA,hsa-let-7a-1,colon cancer
+4,SIM,Feminino,40,AB-,75 kg,-,CircRNA,CDR1-AS,colorectal cancer
+5,SIM,Masculino,45,O+,100 kg,Obesidade,CircRNA,cir-ITCH,colorectal cancer
+6,SIM,Feminino,28,AB-,60 kg,Sindrome do Ovário Policistico,CircRNA,cir-ITCH,colorectal cancer
+7,SIM,Masculino,27,A+,92 kg,Obesidade,LncRNA,CCAT4,colorectal cancer
+8,SIM,Masculino,60,B+,60 kg,-,LncRNA,CCAT6,colorectal cancer
+9,SIM,Feminino,45,A+,72 kg,Artrite Reumatoide,LncRNA,CDKN2B-AS1,colorectal cancer
+10,SIM,Feminino,51,A+,70 kg,Artrite Reumatoide,LncRNA,CLMAT3,colorectal cancer
+11,NÃO,Feminino,25,A+,92 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,hsa-mir-5a,Não Tem
+12,NÃO,Masculino,23,A+,86 kg,Miopia,MiRNA,hsa-mir-6a,Não Tem
+13,NÃO,Feminino,25,O+,57 kg,-,MiRNA,hsa-mir-7a,Não Tem
+14,NÃO,Feminino,24,A+,50 kg,Hipotireoidismo,CircRNA,CDR2-AS,Não Tem
+15,NÃO,Feminino,21,A+,75 kg,-,CircRNA,CDR3-AS,Não Tem
+16,NÃO,Feminino,22,AB+,100 kg,Obesidade,CircRNA,CDR4-AS,Não Tem
+17,NÃO,Masculino,60,O-,60 kg,-,LncRNA,CCAT7,Não Tem
+18,NÃO,Masculino,45,AB+,92 kg,Obseridade,LncRNA,CCAT8,Não Tem
+19,NÃO,Masculino,51,AB-,60 kg,-,LncRNA,CDKN2B-AS2,Não Tem
+20,NÃO,Masculino,25,O+,72 kg,-,LncRNA,CLMAT4,Não Tem
+21,SIM,Feminino,28,AB-,60 kg,Sindrome do Ovário Policistico,CircRNA,cir-ITCH,colorectal cancer
+22,SIM,Masculino,27,A+,92 kg,Obesidade,LncRNA,CCAT4,colorectal cancer
+23,SIM,Masculino,60,B+,60 kg,-,LncRNA,CCAT6,colorectal cancer
+24,SIM,Feminino,45,A+,72 kg,Artrite Reumatoide,LncRNA,CDKN2B-AS1,colorectal cancer
+25,SIM,Feminino,51,A+,70 kg,Artrite Reumatoide,LncRNA,CLMAT3,colorectal cancer
+26,NÃO,Feminino,25,A+,92 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,hsa-mir-5a,Não Tem
+27,NÃO,Masculino,23,A+,86 kg,Miopia,MiRNA,hsa-mir-6a,Não Tem
+28,NÃO,Feminino,25,O+,57 kg,-,MiRNA,hsa-mir-7a,Não Tem
+29,NÃO,Feminino,24,A+,50 kg,Hipotireoidismo,CircRNA,CDR2-AS,Não Tem
+30,NÃO,Feminino,21,A+,75 kg,-,CircRNA,CDR3-AS,Não Tem
+31,NÃO,Feminino,22,AB+,100 kg,Obesidade,CircRNA,CDR4-AS,Não Tem
+32,NÃO,Masculino,60,O-,60 kg,-,LncRNA,CCAT7,Não Tem
+33,NÃO,Masculino,45,AB+,92 kg,Obseridade,LncRNA,CCAT8,Não Tem
+34,NÃO,Masculino,51,AB-,60 kg,-,LncRNA,CDKN2B-AS2,Não Tem
+35,NÃO,Masculino,25,O+,72 kg,-,LncRNA,CLMAT4,Não Tem
+36,SIM,Feminino,28,AB-,60 kg,Sindrome do Ovário Policistico,CircRNA,cir-ITCH,colorectal cancer
+37,SIM,Masculino,27,A+,92 kg,Obesidade,LncRNA,CCAT4,colorectal cancer
+38,SIM,Masculino,60,B+,60 kg,-,LncRNA,CCAT6,colorectal cancer
+39,SIM,Feminino,45,A+,72 kg,Artrite Reumatoide,LncRNA,CDKN2B-AS1,colorectal cancer
+40,SIM,Feminino,51,A+,70 kg,Artrite Reumatoide,LncRNA,CLMAT3,colorectal cancer
+41,NÃO,Feminino,25,A+,92 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,hsa-mir-5a,Não Tem
+42,NÃO,Masculino,23,A+,86 kg,Miopia,MiRNA,hsa-mir-6a,Não Tem
+43,NÃO,Feminino,25,O+,57 kg,-,MiRNA,hsa-mir-7a,Não Tem
+44,NÃO,Feminino,24,A+,50 kg,Hipotireoidismo,CircRNA,CDR2-AS,Não Tem
+45,NÃO,Feminino,21,A+,75 kg,-,CircRNA,CDR3-AS,Não Tem
+46,NÃO,Masculino,30,A-,50 kg,-,MiRNA,CDR3-AS,Não Tem
+47,NÃO,Feminino,20,O-,75 kg,-,MiRNA,CDR4-AS,Não Tem
+48,SIM,Masculino,40,AB+,100 kg,-,MiRNA,CCAT7,colon cancer
+49,SIM,Feminino,45,AB-,60 kg,-,CircRNA,CCAT8,colon cancer
+50,SIM,Masculino,28,O+,92 kg,Obesidade,CircRNA,CDKN2B-AS2,colon cancer
+51,SIM,Feminino,27,AB-,60 kg,Sindrome do Ovário Policistico,CircRNA,CLMAT4,colon cancer
+52,SIM,Masculino,60,A+,72 kg,Obesidade,LncRNA,cir-ITCH,colorectal cancer
+53,NÃO,Masculino,45,B+,60 kg,-,LncRNA,CCAT4,Não Tem
+54,NÃO,Feminino,51,A+,92 kg,Artrite Reumatoide,LncRNA,CCAT6,Não Tem
+55,NÃO,Feminino,25,A+,60 kg,Artrite Reumatoide,LncRNA,CDKN2B-AS1,Não Tem
+56,NÃO,Feminino,23,A+,72 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,CLMAT3,Não Tem
+57,NÃO,Masculino,25,A+,70 kg,Miopia,MiRNA,hsa-mir-5a,Não Tem
+58,NÃO,Feminino,24,O+,92 kg,-,MiRNA,hsa-mir-6a,Não Tem
+59,NÃO,Feminino,21,A+,86 kg,Hipotireoidismo,CircRNA,hsa-mir-7a,Não Tem
+60,NÃO,Feminino,22,A+,57 kg,-,CircRNA,CDR2-AS,Não Tem
+61,NÃO,Feminino,60,AB+,50 kg,Obesidade,CircRNA,CDR3-AS,Não Tem
+62,NÃO,Masculino,45,O-,75 kg,-,LncRNA,CDR4-AS,Não Tem
+63,SIM,Masculino,51,AB+,100 kg,Obseridade,LncRNA,CCAT7,colon cancer
+64,SIM,Masculino,25,AB-,60 kg,-,LncRNA,CCAT8,colon cancer
+65,SIM,Masculino,28,O+,92 kg,-,LncRNA,CDKN2B-AS2,colon cancer
+66,SIM,Feminino,27,AB-,60 kg,Sindrome do Ovário Policistico,CircRNA,CLMAT4,colon cancer
+67,SIM,Masculino,60,A+,72 kg,Obesidade,LncRNA,cir-ITCH,colon cancer
+68,NÃO,Masculino,45,B+,60 kg,-,LncRNA,CCAT4,Não Tem
+69,NÃO,Feminino,51,A+,92 kg,Artrite Reumatoide,LncRNA,CCAT6,Não Tem
+70,NÃO,Feminino,25,A+,60 kg,Artrite Reumatoide,LncRNA,CDKN2B-AS1,Não Tem
+71,NÃO,Feminino,23,A+,72 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,CLMAT3,Não Tem
+72,NÃO,Masculino,25,A+,70 kg,Miopia,MiRNA,hsa-mir-5a,Não Tem
+73,NÃO,Feminino,24,O+,92 kg,-,MiRNA,hsa-mir-6a,Não Tem
+74,NÃO,Feminino,21,A+,50 kg,Hipotireoidismo,CircRNA,hsa-mir-7a,Não Tem
+75,SIM,Feminino,22,A+,75 kg,-,CircRNA,CDR3-AS,colon cancer
+76,SIM,Feminino,60,AB+,100 kg,Obesidade,CircRNA,CDR4-AS,colon cancer
+77,SIM,Masculino,45,O-,60 kg,-,LncRNA,CCAT7,colon cancer
+78,SIM,Masculino,51,AB+,92 kg,Obseridade,LncRNA,CCAT8,colon cancer
+79,SIM,Masculino,25,AB-,60 kg,-,LncRNA,CDKN2B-AS2,Não Tem
+80,NÃO,Masculino,28,O+,72 kg,-,LncRNA,CLMAT4,Não Tem
+81,NÃO,Feminino,27,AB-,60 kg,Sindrome do Ovário Policistico,CircRNA,cir-ITCH,Não Tem
+82,NÃO,Masculino,60,A+,92 kg,Obesidade,LncRNA,CCAT4,Não Tem
+83,NÃO,Masculino,45,B+,60 kg,-,LncRNA,CCAT6,Não Tem
+84,NÃO,Feminino,51,A+,72 kg,Artrite Reumatoide,LncRNA,CDKN2B-AS1,Não Tem
+85,NÃO,Feminino,25,A+,70 kg,Artrite Reumatoide,LncRNA,CLMAT3,Não Tem
+86,NÃO,Feminino,23,A+,92 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,hsa-mir-5a,Não Tem
+87,NÃO,Masculino,25,A+,86 kg,Miopia,MiRNA,hsa-mir-6a,Não Tem
+88,NÃO,Feminino,24,O+,57 kg,-,MiRNA,hsa-mir-7a,Não Tem
+89,NÃO,Feminino,21,A+,50 kg,Hipotireoidismo,CircRNA,CDR2-AS,Não Tem
+90,SIM,Feminino,30,A+,75 kg,-,CircRNA,CDR3-AS,colon cancer
+91,SIM,Masculino,20,A-,100 kg,-,MiRNA,CDR4-AS,colon cancer
+92,SIM,Feminino,40,O-,60 kg,-,MiRNA,CCAT7,colon cancer
+93,SIM,Masculino,45,AB+,92 kg,-,MiRNA,CCAT8,colon cancer
+94,SIM,Feminino,28,AB-,60 kg,-,CircRNA,CDKN2B-AS2,colon cancer
+95,NÃO,Masculino,27,O+,72 kg,Obesidade,CircRNA,CLMAT4,Não Tem
+96,NÃO,Feminino,60,AB-,60 kg,Sindrome do Ovário Policistico,CircRNA,cir-ITCH,Não Tem
+97,NÃO,Masculino,45,A+,92 kg,Obesidade,LncRNA,CCAT4,Não Tem
+98,NÃO,Masculino,51,B+,60 kg,-,LncRNA,CCAT6,Não Tem
+99,NÃO,Feminino,25,A+,72 kg,Artrite Reumatoide,LncRNA,CDKN2B-AS1,Não Tem
+100,NÃO,Feminino,23,A+,70 kg,Artrite Reumatoide,LncRNA,CLMAT3,Não Tem
+101,NÃO,Feminino,25,A+,92 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,hsa-mir-5a,colon cancer
+102,SIM,Masculino,24,A+,50 kg,Miopia,MiRNA,hsa-mir-6a,colon cancer
+103,SIM,Feminino,21,O+,75 kg,-,MiRNA,hsa-mir-7a,colon cancer
+104,SIM,Feminino,22,A+,100 kg,Hipotireoidismo,CircRNA,CDR3-AS,colon cancer
+105,SIM,Feminino,60,A+,60 kg,-,CircRNA,CDR4-AS,colon cancer
+106,SIM,Feminino,45,AB+,92 kg,Obesidade,CircRNA,CCAT7,colon cancer
+107,NÃO,Masculino,51,A-,60 kg,-,LncRNA,CCAT8,Não Tem
+108,NÃO,Masculino,25,O-,72 kg,Obseridade,LncRNA,CDKN2B-AS2,Não Tem
+109,NÃO,Masculino,28,AB+,60 kg,-,LncRNA,CLMAT4,Não Tem
+110,NÃO,Masculino,27,AB-,92 kg,-,LncRNA,cir-ITCH,Não Tem
+111,NÃO,Feminino,60,O+,60 kg,Sindrome do Ovário Policistico,CircRNA,CCAT4,Não Tem
+112,NÃO,Masculino,45,AB-,72 kg,Obesidade,LncRNA,CCAT6,Não Tem
+113,NÃO,Masculino,51,A+,70 kg,-,LncRNA,CDKN2B-AS1,Não Tem
+114,NÃO,Feminino,25,B+,92 kg,Artrite Reumatoide,LncRNA,CLMAT3,Não Tem
+115,NÃO,Feminino,23,A+,86 kg,Artrite Reumatoide,LncRNA,hsa-mir-5a,Não Tem
+116,NÃO,Feminino,25,A+,57 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,hsa-mir-6a,Não Tem
+117,SIM,Masculino,24,A+,50 kg,Miopia,MiRNA,hsa-mir-7a,colon cancer
+118,SIM,Feminino,21,A+,75 kg,-,MiRNA,CDR2-AS,colon cancer
+119,SIM,Feminino,22,O+,100 kg,Hipotireoidismo,CircRNA,CDR3-AS,colon cancer
+120,SIM,Feminino,60,A+,60 kg,-,CircRNA,CDR4-AS,colon cancer
+121,SIM,Feminino,45,A+,92 kg,Obesidade,CircRNA,CCAT7,colon cancer
+122,NÃO,Masculino,51,AB+,60 kg,-,LncRNA,CCAT8,Não Tem
+123,NÃO,Masculino,25,O-,72 kg,Obseridade,LncRNA,CDKN2B-AS2,Não Tem
+124,NÃO,Masculino,28,AB+,60 kg,-,LncRNA,CLMAT4,Não Tem
+125,NÃO,Masculino,27,AB-,92 kg,-,LncRNA,cir-ITCH,Não Tem
+126,NÃO,Feminino,60,O+,60 kg,Sindrome do Ovário Policistico,CircRNA,CCAT4,Não Tem
+127,NÃO,Masculino,45,AB-,72 kg,Obesidade,LncRNA,CCAT6,Não Tem
+128,NÃO,Masculino,51,A+,70 kg,-,LncRNA,CDKN2B-AS1,Não Tem
+129,SIM,Feminino,25,B+,92 kg,Artrite Reumatoide,LncRNA,CLMAT3,colon cancer
+130,SIM,Feminino,23,A+,50 kg,Artrite Reumatoide,LncRNA,hsa-mir-5a,colon cancer
+131,SIM,Feminino,25,A+,75 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,hsa-mir-6a,colon cancer
+132,SIM,Masculino,24,A+,100 kg,Miopia,MiRNA,hsa-mir-7a,colon cancer
+133,SIM,Feminino,21,A+,60 kg,-,MiRNA,CDR3-AS,colon cancer
+134,NÃO,Feminino,30,O+,92 kg,Hipotireoidismo,CircRNA,CDR4-AS,Não Tem
+135,NÃO,Feminino,20,A+,60 kg,-,CircRNA,CCAT7,Não Tem
+136,NÃO,Masculino,40,A+,72 kg,-,MiRNA,CCAT8,Não Tem
+137,NÃO,Feminino,45,AB+,60 kg,-,MiRNA,CDKN2B-AS2,Não Tem
+138,NÃO,Masculino,28,O-,92 kg,-,MiRNA,CLMAT4,Não Tem
+139,NÃO,Feminino,27,AB+,60 kg,-,CircRNA,cir-ITCH,Não Tem
+140,NÃO,Masculino,60,AB-,72 kg,Obesidade,CircRNA,CCAT4,Não Tem
+141,NÃO,Feminino,45,O+,70 kg,Sindrome do Ovário Policistico,CircRNA,CCAT6,Não Tem
+142,NÃO,Masculino,51,AB-,92 kg,Obesidade,LncRNA,CDKN2B-AS1,Não Tem
+143,NÃO,Masculino,25,A+,86 kg,-,LncRNA,CLMAT3,Não Tem
+144,SIM,Feminino,23,B+,57 kg,Artrite Reumatoide,LncRNA,hsa-mir-5a,colon cancer
+145,SIM,Feminino,25,A+,50 kg,Artrite Reumatoide,LncRNA,hsa-mir-6a,colon cancer
+146,SIM,Feminino,24,A+,75 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,hsa-mir-7a,colon cancer
+147,SIM,Masculino,21,A+,100 kg,Miopia,MiRNA,CDR2-AS,colon cancer
+148,SIM,Feminino,22,A+,60 kg,-,MiRNA,CDR3-AS,colon cancer
+149,NÃO,Feminino,60,O+,92 kg,Hipotireoidismo,CircRNA,CDR4-AS,Não Tem
+150,NÃO,Feminino,45,A+,60 kg,-,CircRNA,CCAT7,Não Tem
+151,NÃO,Feminino,51,A+,72 kg,Obesidade,CircRNA,CCAT8,Não Tem
+152,NÃO,Masculino,25,A-,60 kg,-,LncRNA,CDKN2B-AS2,Não Tem
+153,NÃO,Masculino,28,O-,92 kg,Obseridade,LncRNA,CLMAT4,Não Tem
+154,NÃO,Masculino,27,AB+,60 kg,-,LncRNA,cir-ITCH,Não Tem
+155,NÃO,Masculino,60,AB-,72 kg,-,LncRNA,CCAT4,Não Tem
+156,SIM,Feminino,45,O+,70 kg,Sindrome do Ovário Policistico,CircRNA,CCAT6,colon cancer
+157,SIM,Masculino,51,AB-,92 kg,Obesidade,LncRNA,CDKN2B-AS1,colon cancer
+158,SIM,Masculino,25,A+,50 kg,-,LncRNA,CLMAT3,colon cancer
+159,SIM,Feminino,23,B+,75 kg,Artrite Reumatoide,LncRNA,hsa-mir-5a,colon cancer
+160,SIM,Feminino,25,A+,100 kg,Artrite Reumatoide,LncRNA,hsa-mir-6a,colon cancer
+161,NÃO,Feminino,24,A+,60 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,hsa-mir-7a,Não Tem
+162,NÃO,Masculino,21,A+,92 kg,Miopia,MiRNA,CDR3-AS,Não Tem
+163,NÃO,Feminino,22,A+,60 kg,-,MiRNA,CDR4-AS,Não Tem
+164,NÃO,Feminino,60,O+,72 kg,Hipotireoidismo,CircRNA,CCAT7,Não Tem
+165,NÃO,Feminino,45,A+,60 kg,-,CircRNA,CCAT8,Não Tem
+166,NÃO,Feminino,51,A+,92 kg,Obesidade,CircRNA,CDKN2B-AS2,Não Tem
+167,NÃO,Masculino,25,AB+,60 kg,-,LncRNA,CLMAT4,Não Tem
+168,NÃO,Masculino,28,O-,72 kg,Obseridade,LncRNA,cir-ITCH,Não Tem
+169,NÃO,Masculino,27,AB+,70 kg,-,LncRNA,CCAT4,Não Tem
+170,NÃO,Masculino,60,AB-,92 kg,-,LncRNA,CCAT6,Não Tem
+171,SIM,Feminino,45,O+,86 kg,Sindrome do Ovário Policistico,CircRNA,CDKN2B-AS1,colon cancer
+172,SIM,Masculino,51,A-,57 kg,Obesidade,LncRNA,CLMAT3,colon cancer
+173,SIM,Masculino,25,O-,50 kg,-,LncRNA,hsa-mir-5a,colon cancer
+174,SIM,Feminino,23,AB+,75 kg,Artrite Reumatoide,LncRNA,hsa-mir-6a,colon cancer
+175,SIM,Feminino,25,AB-,100 kg,Artrite Reumatoide,LncRNA,hsa-mir-7a,colon cancer
+176,NÃO,Feminino,24,O+,60 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,CDR2-AS,Não Tem
+177,NÃO,Masculino,21,AB-,92 kg,Miopia,MiRNA,CDR3-AS,Não Tem
+178,NÃO,Feminino,30,A+,60 kg,-,MiRNA,CDR4-AS,Não Tem
+179,NÃO,Feminino,20,B+,72 kg,Hipotireoidismo,CircRNA,CCAT7,Não Tem
+180,NÃO,Feminino,40,A+,60 kg,-,CircRNA,CCAT8,Não Tem
+181,NÃO,Masculino,45,A+,92 kg,-,MiRNA,CDKN2B-AS2,Não Tem
+182,NÃO,Feminino,28,A+,60 kg,-,MiRNA,CLMAT4,Não Tem
+183,NÃO,Masculino,27,A+,72 kg,-,MiRNA,cir-ITCH,Não Tem
+184,NÃO,Feminino,60,O+,70 kg,-,CircRNA,CCAT4,Não Tem
+185,NÃO,Masculino,45,A+,92 kg,Obesidade,CircRNA,CCAT6,Não Tem
+186,NÃO,Feminino,51,A+,50 kg,Sindrome do Ovário Policistico,CircRNA,CDKN2B-AS1,Não Tem
+187,NÃO,Masculino,25,AB+,75 kg,Obesidade,LncRNA,CLMAT3,Não Tem
+188,NÃO,Masculino,23,O-,100 kg,-,LncRNA,hsa-mir-5a,Não Tem
+189,SIM,Feminino,25,AB+,60 kg,Artrite Reumatoide,LncRNA,hsa-mir-6a,colon cancer
+190,SIM,Feminino,24,AB-,92 kg,Artrite Reumatoide,LncRNA,hsa-mir-7a,colon cancer
+191,SIM,Feminino,21,O+,60 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,CDR2-AS,colon cancer
+192,SIM,Masculino,22,AB-,72 kg,Miopia,MiRNA,CDR3-AS,colon cancer
+193,SIM,Feminino,60,A+,60 kg,-,MiRNA,CDR4-AS,colon cancer
+194,NÃO,Feminino,45,B+,92 kg,Hipotireoidismo,CircRNA,CCAT7,Não Tem
+195,NÃO,Feminino,51,A+,60 kg,-,CircRNA,CCAT8,Não Tem
+196,NÃO,Feminino,25,A+,72 kg,Obesidade,CircRNA,CDKN2B-AS2,Não Tem
+197,NÃO,Masculino,28,A+,70 kg,-,LncRNA,CLMAT4,Não Tem
+198,NÃO,Masculino,27,A+,92 kg,Obseridade,LncRNA,cir-ITCH,Não Tem
+199,NÃO,Masculino,60,O+,86 kg,-,LncRNA,CCAT4,Não Tem
+200,NÃO,Masculino,45,A+,57 kg,-,LncRNA,CCAT6,Não Tem
+201,SIM,Feminino,51,A+,50 kg,Sindrome do Ovário Policistico,CircRNA,CDKN2B-AS1,colon cancer
+202,SIM,Masculino,25,AB+,75 kg,Obesidade,LncRNA,CLMAT3,Não Tem
+203,SIM,Masculino,23,O-,100 kg,-,LncRNA,hsa-mir-5a,Não Tem
+204,SIM,Feminino,25,AB+,60 kg,Artrite Reumatoide,LncRNA,hsa-mir-6a,colon cancer
+205,SIM,Feminino,24,AB-,92 kg,Artrite Reumatoide,LncRNA,hsa-mir-7a,colon cancer
+206,NÃO,Feminino,21,O+,60 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,CDR3-AS,colon cancer
+207,NÃO,Masculino,22,AB-,72 kg,Miopia,MiRNA,CDR4-AS,Não Tem
+208,NÃO,Feminino,60,A+,60 kg,-,MiRNA,CCAT7,colon cancer
+209,NÃO,Feminino,45,B+,92 kg,Hipotireoidismo,CircRNA,CCAT8,colon cancer
+210,NÃO,Feminino,51,A+,60 kg,-,CircRNA,CDKN2B-AS2,colon cancer
+211,NÃO,Feminino,25,A+,72 kg,Obesidade,CircRNA,CLMAT4,colon cancer
+212,NÃO,Masculino,28,A+,70 kg,-,LncRNA,cir-ITCH,Não Tem
+213,NÃO,Masculino,27,A+,92 kg,Obseridade,LncRNA,CCAT4,Não Tem
+214,NÃO,Masculino,60,O+,57 kg,-,LncRNA,CCAT6,Não Tem
+215,NÃO,Masculino,45,A+,50 kg,-,LncRNA,CDKN2B-AS1,Não Tem
+216,SIM,Feminino,51,A+,75 kg,Sindrome do Ovário Policistico,CircRNA,CLMAT3,colon cancer
+217,SIM,Masculino,25,A-,100 kg,Obesidade,LncRNA,hsa-mir-5a,Não Tem
+218,SIM,Masculino,23,O-,60 kg,-,LncRNA,hsa-mir-6a,Não Tem
+219,SIM,Feminino,25,AB+,92 kg,Artrite Reumatoide,LncRNA,hsa-mir-7a,colon cancer
+220,SIM,Feminino,24,AB-,60 kg,Artrite Reumatoide,LncRNA,CDR2-AS,colon cancer
+221,NÃO,Feminino,21,O+,72 kg,"Obesidade, Sindrome do Ovário Policístico, Resistência a Insulina",MiRNA,CDR3-AS,colon cancer
+222,NÃO,Masculino,25,AB-,60 kg,Miopia,MiRNA,CDR4-AS,Não Tem
+223,NÃO,Feminino,23,A+,92 kg,Miopia,MiRNA,CCAT7,colon cancer
